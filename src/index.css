@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html,
+body{
+    @apply text-white bg-primary font-Rubik;
+}
+
+
+@layer components {
+    .custom-container{
+        @apply w-full flex justify-center items-center;
+    }
+    .custom-container2{
+        @apply w-screen  flex justify-center items-center;
+    }
+    .btn{
+        @apply border-2 w-24 h-12 border-secondary rounded-lg hover:bg-secondary hover:text-white ;
+    }
+    .btn2{
+        @apply bg-secondary w-24 h-12  rounded-lg text-white text-[20px] hover:text-secondary hover:bg-opacity-0 hover:border-2 hover:border-secondary;
+    }
+    .abtn{
+        @apply border-2 p-2 border-secondary rounded-lg hover:bg-secondary hover:text-white ;
+    }
+    .titleCenter{
+        @apply flex flex-col justify-center px-6 items-center;
+    }
+    .tHead{
+        @apply text-[40px] font-semibold;
+    }
+    .tborder{
+        @apply border-2 border-b-2   border-secondary w-20 h-auto mt-2;
+    }
+    .ptext{
+        @apply py-4 text-xl  max-md:text-center;
+    }
+    .subtitle{
+        @apply text-2xl font-semibold
+    }
+    .aboutxt{
+        @apply flex flex-wrap text-justify text-gray-800 text-[16px];
+    }
+}
