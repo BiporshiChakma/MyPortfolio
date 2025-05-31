@@ -98,7 +98,7 @@ return (
                                 <div className='md:w-[50%]'>
                                     <div className='w-full flex px-4 gap-4 max-lg:justify-center lg:gap-4 lg:px-10 md:px-4 max-md:flex-col'>
                                         <div className="md:w-[40%]  max-md:justify-center max-md:items-center ">
-                                            <img src="./img/img-1.jpg" className=" h-auto w-full max-md:w-[250px]" />
+                                            <img src="./img/img-1.jpg" className="shadow-2xl h-auto w-full max-md:w-[250px]" />
                                         </div>
                                         <div className="md:w-[60%]">
                                             <div className="flex flex-col lg:gap-4 gap-2 ">
@@ -129,7 +129,7 @@ return (
                                  <div className='md:w-[50%]'>
                                     <div className='w-full flex px-4 gap-4 max-lg:justify-center lg:gap-4 lg:px-10 md:px-4 max-md:flex-col'>
                                         <div className="md:w-[40%]">
-                                            <img src="./img/img-2.jpg" className=" h-auto w-full max-md:w-[250px]" />
+                                            <img src="./img/img-2.jpg" className="shadow-2xl h-auto w-full max-md:w-[250px]" />
                                         </div>
                                         <div className="md:w-[60%]">
                                             <div className="flex flex-col lg:gap-4 gap-2">
@@ -167,7 +167,7 @@ return (
                                 <div className='md:w-[50%]'>
                                     <div className='w-full flex px-4 gap-4 max-lg:justify-center lg:gap-4 lg:px-10 md:px-4 max-md:flex-col'>
                                         <div className="md:w-[40%]  max-md:justify-center max-md:items-center ">
-                                            <img src="./img/img-3.jpg" className=" h-auto w-full max-md:w-[250px]" />
+                                            <img src="./img/img-3.jpg" className="shadow-2xl h-auto w-full max-md:w-[250px]" />
                                         </div>
                                         <div className="md:w-[60%]">
                                             <div className="flex flex-col lg:gap-4 gap-2 ">
@@ -198,7 +198,7 @@ return (
                                  <div className='md:w-[50%]'>
                                     <div className='w-full flex px-4 gap-4 max-lg:justify-center lg:gap-4 lg:px-10 md:px-4 max-md:flex-col'>
                                         <div className="md:w-[40%]">
-                                            <img src="./img/img-1.jpg" className=" h-auto w-full max-md:w-[250px]" />
+                                            <img src="./img/img-1.jpg" className="shadow-2xl h-auto w-full max-md:w-[250px]" />
                                         </div>
                                         <div className="md:w-[60%]">
                                             <div className="flex flex-col lg:gap-4 gap-2">

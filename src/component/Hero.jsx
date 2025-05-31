@@ -20,7 +20,7 @@ function App() {
           <div className="w-[95%] flex justify-center items-center text-center">
             <div className="flex flex-col gap-10">
                 <h1 className="text-[60px] font-Rubik font-semibold">Hey, I'm Biporshi</h1>
-                <p className="text-[23px] font-Rubik">A Result-Oriented Web Developer building and managing Websites and Web <br></br> Applications that leads to the success of the overall product</p>
+                <p className="lg:text-[23px] max-lg:text-[20px] font-Rubik">A Result-Oriented Web Developer building and managing Websites and Web <br></br> Applications that leads to the success of the overall product</p>
                 <div>
                 <div className="flex gap-4 max-md:invisible justify-center">
               <button className="btn2 px-2">Resume</button>

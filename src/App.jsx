@@ -2,6 +2,8 @@ import Header from './component/Header'
 import Hero from './component/Hero'
 import About from './component/About'
 import Project from './component/Project'
+import Contact from './component/Contact'
+import Footer from './component/Footer'
 
 
 function App() {
@@ -11,6 +13,8 @@ function App() {
     <Hero/>
    <About/>
    <Project/>
+   <Contact/>
+   <Footer/>
   
    
     </>
